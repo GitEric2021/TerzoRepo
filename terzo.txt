@@ -1,0 +1,1 @@
+Ecco ilmio terzo file git dopo il clone.
